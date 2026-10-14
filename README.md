@@ -1,5 +1,8 @@
 # Enterprise AI Business Intelligence Platform
 
+[![Python unit tests](https://github.com/arqam3025/enterprise-ai-bi-platform/actions/workflows/tests.yml/badge.svg)](https://github.com/arqam3025/enterprise-ai-bi-platform/actions/workflows/tests.yml)
+
+
 **Status:** Local portfolio demonstration using **synthetic data**, not a production business application.
 
 A Streamlit dashboard with SQL reporting, a read-only FastAPI service and a transparent predictive analytics experiment. This repo demonstrates a small integrated business intelligence architecture without claiming real customer integration.
